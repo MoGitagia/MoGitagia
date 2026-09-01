@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=slice&color=0:6D28D9,50:DB2777,100:60A5FA&height=200&section=header&text=MAUREEN%20WANJIRU&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20%7C%20OSINT%20%7C%20Network/Web%20Security&descAlignY=58&descSize=17&descColor=F9A8D4" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Cybersecurity+Student+%F0%9F%9B%A1%EF%B8%8F;OSINT+%C2%B7+Network+Security+%C2%B7+Vuln+Assessment;One+vulnerability+at+a+time&font=Fira+Code&center=true&width=600&height=40&color=C084FC&vCenter=true&size=18&pause=2200">
+## <img src="https://readme-typing-svg.demolab.com/?lines=Cybersecurity+Student+%F0%9F%9B%A1%EF%B8%8F;OSINT+%C2%B7+Network+Security+%C2%B7+Vuln+Assessment;One+vulnerability+at+a+time&font=Fira+Code&center=true&width=600&height=40&color=C084FC&vCenter=true&size=18&pause=2200">
 
 <br>
 
