@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=slice&color=0:6D28D9,50:DB2777,100:60A5FA&height=200&section=header&text=MAUREEN%20WANJIRU&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20%7C%20OSINT%20%7C%20Network%20Security&descAlignY=58&descSize=17&descColor=F9A8D4" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Cybersecurity+Student+%F0%9F%9B%A1%EF%B8%8F;OSINT+%C2%B7+Network+Security+%C2%B7+Vuln+Assessment;Trained+at+AfricaHackon+Academy&font=Fira+Code&center=true&width=600&height=40&color=C084FC&vCenter=true&size=18&pause=2200">
+<img src="https://readme-typing-svg.demolab.com/?lines=Cybersecurity+Student+%F0%9F%9B%A1%EF%B8%8F;OSINT+%C2%B7+Network+Security+%C2%B7+Vuln+Assessment;One+vulnerability+at+a+time&font=Fira+Code&center=true&width=600&height=40&color=C084FC&vCenter=true&size=18&pause=2200">
 
 <br>
 
@@ -110,12 +110,6 @@ Where I write up investigations, notes, and whatever I'm currently pulling apart
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MoGitagia&theme=radical&hide_border=true&background=0D1117&ring=F472B6&fire=C084FC&currStreakLabel=60A5FA"/>
 
 <br><br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=MoGitagia&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=4"/>
-
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MoGitagia&theme=react-dark&hide_border=true&bg_color=0D1117&color=F9A8D4&line=C084FC&point=60A5FA" width="100%"/>
 
 <img src="https://komarev.com/ghpvc/?username=MoGitagia&color=C084FC&style=for-the-badge&label=Profile+Views"/>
 
