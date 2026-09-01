@@ -58,10 +58,18 @@ Where I write up investigations, notes, and whatever I'm currently pulling apart
 
 ## 📊 Stats
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=MoGitagia&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=C084FC&icon_color=F472B6&text_color=ffffff"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoGitagia&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=C084FC&text_color=ffffff"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=MoGitagia&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F9A8D4&icon_color=C084FC&text_color=ffffff"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoGitagia&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F9A8D4&text_color=ffffff"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MoGitagia&theme=dark&hide_border=true&background=0D1117&ring=F472B6&fire=C084FC&currStreakLabel=60A5FA"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MoGitagia&theme=radical&hide_border=true&background=0D1117&ring=F472B6&fire=C084FC&currStreakLabel=60A5FA"/>
+
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=MoGitagia&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=4"/>
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MoGitagia&theme=react-dark&hide_border=true&bg_color=0D1117&color=F9A8D4&line=C084FC&point=60A5FA" width="100%"/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=MoGitagia&color=C084FC&style=flat-square&label=Profile+Views)
 
