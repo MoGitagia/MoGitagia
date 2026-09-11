@@ -19,7 +19,7 @@
 
 ### 👋 A little about me
 
-I focus on finding and understanding the weak points in systems before someone else does — mainly across OSINT, network security, and web application security. Over 200+ hours of hands-on work through AfricaHackon Academy has taken me through vulnerability assessments, packet-level traffic analysis to spot reconnaissance and exploitation attempts, and OSINT investigations that map attack surfaces and feed into threat intel. I'd rather understand how a system breaks than admire how it works. This profile is where that shows up — writeups, notes, and whatever I'm currently pulling apart to understand.
+I focus on finding and understanding the weak points in systems, mainly across OSINT, network security and web application security. Over 200+ hours of hands-on work through AfricaHackon Academy and personal projects has taken me through vulnerability assessments, packet-level traffic analysis to spot reconnaissance and exploitation attempts, and OSINT investigations that map attack surfaces and feed into threat intel. I'm also currectly upskilling in building systems using React and Node.js This profile is where that shows up as writeups, notes, and whatever I'm currently pulling apart to understand.
 
 </td></tr>
 </table>
