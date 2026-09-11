@@ -2,9 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=slice&color=0:6D28D9,50:DB2777,100:60A5FA&height=200&section=header&text=MAUREEN%20WANJIRU&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20%7C%20OSINT%20%7C%20Network%20Security&descAlignY=58&descSize=17&descColor=F9A8D4" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:DB2777,100:60A5FA&height=100&section=header&text=One%20vulnerability%20at%20a%20time&fontSize=22&fontColor=ffffff&animation=fadeIn&fontAlignY=55" width="100%">
-
-<br>
+<p align="center"><i>One vulnerability at a time</i></p>
 
 <img src="https://img.shields.io/badge/📍_Nairobi,_Kenya-6D28D9?style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/🎓_BSc_Info_Security_&_Forensics-DB2777?style=for-the-badge&logoColor=white"/>
@@ -72,27 +70,33 @@ Where I write up investigations, notes, and whatever I'm currently pulling apart
 
 **🔍 OSINT / Recon**
 <br>
-<img src="https://img.shields.io/badge/Shodan-1a1a2e?style=for-the-badge&labelColor=6D28D9&color=6D28D9"/>
-<img src="https://img.shields.io/badge/Censys-1a1a2e?style=for-the-badge&labelColor=6D28D9&color=6D28D9"/>
-<img src="https://img.shields.io/badge/Google_Dorking-1a1a2e?style=for-the-badge&labelColor=6D28D9&color=6D28D9"/>
+<table border="0"><tr>
+<td align="center" width="90"><img src="https://www.google.com/s2/favicons?sz=128&domain=shodan.io" width="40" height="40"/><br/><sub><b>Shodan</b></sub></td>
+<td align="center" width="90"><img src="https://www.google.com/s2/favicons?sz=128&domain=censys.io" width="40" height="40"/><br/><sub><b>Censys</b></sub></td>
+<td align="center" width="90"><img src="https://www.google.com/s2/favicons?sz=128&domain=google.com" width="40" height="40"/><br/><sub><b>Google Dorking</b></sub></td>
+</tr></table>
 
-<br><br>
+<br>
 
 **📡 Networking & Packet Analysis**
 <br>
-<img src="https://img.shields.io/badge/Wireshark-1a1a2e?style=for-the-badge&logo=wireshark&labelColor=DB2777&color=DB2777&logoColor=white"/>
-<img src="https://img.shields.io/badge/Nmap-1a1a2e?style=for-the-badge&labelColor=DB2777&color=DB2777"/>
-<img src="https://img.shields.io/badge/Snort-1a1a2e?style=for-the-badge&labelColor=DB2777&color=DB2777"/>
+<table border="0"><tr>
+<td align="center" width="90"><img src="https://www.google.com/s2/favicons?sz=128&domain=wireshark.org" width="40" height="40"/><br/><sub><b>Wireshark</b></sub></td>
+<td align="center" width="90"><img src="https://www.google.com/s2/favicons?sz=128&domain=nmap.org" width="40" height="40"/><br/><sub><b>Nmap</b></sub></td>
+<td align="center" width="90"><img src="https://www.google.com/s2/favicons?sz=128&domain=snort.org" width="40" height="40"/><br/><sub><b>Snort</b></sub></td>
+</tr></table>
 
-<br><br>
+<br>
 
 **🛠️ Vulnerability Assessment & Exploitation**
 <br>
-<img src="https://img.shields.io/badge/Burp_Suite-1a1a2e?style=for-the-badge&labelColor=60A5FA&color=60A5FA"/>
-<img src="https://img.shields.io/badge/Nuclei-1a1a2e?style=for-the-badge&labelColor=60A5FA&color=60A5FA"/>
-<img src="https://img.shields.io/badge/Metasploit-1a1a2e?style=for-the-badge&logo=metasploit&labelColor=60A5FA&color=60A5FA&logoColor=white"/>
+<table border="0"><tr>
+<td align="center" width="90"><img src="https://www.google.com/s2/favicons?sz=128&domain=portswigger.net" width="40" height="40"/><br/><sub><b>Burp Suite</b></sub></td>
+<td align="center" width="90"><img src="https://www.google.com/s2/favicons?sz=128&domain=projectdiscovery.io" width="40" height="40"/><br/><sub><b>Nuclei</b></sub></td>
+<td align="center" width="90"><img src="https://www.google.com/s2/favicons?sz=128&domain=metasploit.com" width="40" height="40"/><br/><sub><b>Metasploit</b></sub></td>
+</tr></table>
 
-<br><br>
+<br>
 
 **💻 Platforms & Scripting**
 <br>
