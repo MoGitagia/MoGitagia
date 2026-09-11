@@ -21,7 +21,7 @@
 
 ### 👋 A little about me
 
-I'm a Cybersecurity student focused on finding and understanding the weak points in systems before someone else does. Trained through AfricaHackon Academy, I've logged over 200 hours across web application security, network security, cloud security, and incident response — running vulnerability assessments, analysing network traffic for reconnaissance and exploitation attempts, and conducting OSINT investigations to map attack surfaces and support threat intelligence. I'd rather understand a system's weak point than just admire its features. This profile is where that process lives — writeups, notes, and whatever I'm currently pulling apart to understand.
+I focus on finding and understanding the weak points in systems before someone else does — mainly across OSINT, network security, and web application security. Over 200+ hours of hands-on work through AfricaHackon Academy has taken me through vulnerability assessments, packet-level traffic analysis to spot reconnaissance and exploitation attempts, and OSINT investigations that map attack surfaces and feed into threat intel. I'd rather understand how a system breaks than admire how it works. This profile is where that shows up — writeups, notes, and whatever I'm currently pulling apart to understand.
 
 </td></tr>
 </table>
@@ -68,27 +68,37 @@ Where I write up investigations, notes, and whatever I'm currently pulling apart
 
 ## 🧰 Arsenal
 
+<br>
+
 **🔍 OSINT / Recon**
 <br>
-<img src="https://img.shields.io/badge/Shodan-0D1117?style=for-the-badge&logo=shodan&logoColor=C084FC"/>
-<img src="https://img.shields.io/badge/Censys-0D1117?style=for-the-badge&logoColor=C084FC"/>
-<img src="https://img.shields.io/badge/Google_Dorking-0D1117?style=for-the-badge&logo=google&logoColor=C084FC"/>
+<img src="https://img.shields.io/badge/Shodan-1a1a2e?style=for-the-badge&labelColor=6D28D9&color=6D28D9"/>
+<img src="https://img.shields.io/badge/Censys-1a1a2e?style=for-the-badge&labelColor=6D28D9&color=6D28D9"/>
+<img src="https://img.shields.io/badge/Google_Dorking-1a1a2e?style=for-the-badge&labelColor=6D28D9&color=6D28D9"/>
+
+<br><br>
 
 **📡 Networking & Packet Analysis**
 <br>
-<img src="https://img.shields.io/badge/Wireshark-0D1117?style=for-the-badge&logo=wireshark&logoColor=F472B6"/>
-<img src="https://img.shields.io/badge/Nmap-0D1117?style=for-the-badge&logo=nmap&logoColor=F472B6"/>
-<img src="https://img.shields.io/badge/Snort-0D1117?style=for-the-badge&logoColor=F472B6"/>
+<img src="https://img.shields.io/badge/Wireshark-1a1a2e?style=for-the-badge&logo=wireshark&labelColor=DB2777&color=DB2777&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nmap-1a1a2e?style=for-the-badge&labelColor=DB2777&color=DB2777"/>
+<img src="https://img.shields.io/badge/Snort-1a1a2e?style=for-the-badge&labelColor=DB2777&color=DB2777"/>
+
+<br><br>
 
 **🛠️ Vulnerability Assessment & Exploitation**
 <br>
-<img src="https://img.shields.io/badge/Burp_Suite-0D1117?style=for-the-badge&logo=burpsuite&logoColor=60A5FA"/>
-<img src="https://img.shields.io/badge/Nuclei-0D1117?style=for-the-badge&logoColor=60A5FA"/>
-<img src="https://img.shields.io/badge/Metasploit-0D1117?style=for-the-badge&logo=metasploit&logoColor=60A5FA"/>
+<img src="https://img.shields.io/badge/Burp_Suite-1a1a2e?style=for-the-badge&labelColor=60A5FA&color=60A5FA"/>
+<img src="https://img.shields.io/badge/Nuclei-1a1a2e?style=for-the-badge&labelColor=60A5FA&color=60A5FA"/>
+<img src="https://img.shields.io/badge/Metasploit-1a1a2e?style=for-the-badge&logo=metasploit&labelColor=60A5FA&color=60A5FA&logoColor=white"/>
+
+<br><br>
 
 **💻 Platforms & Scripting**
 <br>
 <img src="https://skillicons.dev/icons?i=kali,py,bash&theme=dark"/>
+
+<br><br>
 
 **🌐 Also dabbles in**
 <br>
