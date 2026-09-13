@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:6D28D9,50:DB2777,100:60A5FA&height=200&section=header&text=MAUREEN%20WANJIRU&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20%7C%20OSINT%20%7C%20Network%20Security&descAlignY=58&descSize=17&descColor=F9A8D4" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:6D28D9,50:DB2777,100:60A5FA&height=200&section=header&text=MAUREEN%20WANJIRU&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20%7C%20OSINT%20%7C%20Network/Web%20Security&descAlignY=58&descSize=17&descColor=F9A8D4" width="100%"/>
 
 <p align="center"><i>One vulnerability at a time</i></p>
 
@@ -19,7 +19,7 @@
 
 ### 👋 A little about me
 
-I focus on finding and understanding the weak points in systems before someone else does — mainly across OSINT, network security, and web application security. Over 200+ hours of hands-on work through AfricaHackon Academy has taken me through vulnerability assessments, packet-level traffic analysis to spot reconnaissance and exploitation attempts, and OSINT investigations that map attack surfaces and feed into threat intel. I'd rather understand how a system breaks than admire how it works. This profile is where that shows up — writeups, notes, and whatever I'm currently pulling apart to understand.
+I focus on finding and understanding the weak points in systemms, mainly across OSINT, network security, and web application security. Over 200+ hours of hands-on training has taken me through vulnerability assessments, packet-level traffic analysis to spot reconnaissance and exploitation attempts, and OSINT investigations that map attack surfaces and feed into threat intel. 
 
 </td></tr>
 </table>
