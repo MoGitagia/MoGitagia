@@ -19,7 +19,7 @@
 
 ### 👋 A little about me
 
-I focus on finding and understanding the weak points in systems, mainly across OSINT, network security and web application security. Over 200+ hours of hands-on work through AfricaHackon Academy and personal projects has taken me through vulnerability assessments, packet-level traffic analysis to spot reconnaissance and exploitation attempts, and OSINT investigations that map attack surfaces and feed into threat intel. I'm also currectly upskilling in building systems using React and Node.js This profile is where that shows up as writeups, notes, and whatever I'm currently pulling apart to understand.
+I focus on finding and understanding the weak points in systems before someone else does — mainly across OSINT, network security, and web application security. Over 200+ hours of hands-on work through AfricaHackon Academy has taken me through vulnerability assessments, packet-level traffic analysis to spot reconnaissance and exploitation attempts, and OSINT investigations that map attack surfaces and feed into threat intel. I'd rather understand how a system breaks than admire how it works. This profile is where that shows up — writeups, notes, and whatever I'm currently pulling apart to understand.
 
 </td></tr>
 </table>
@@ -40,7 +40,11 @@ I focus on finding and understanding the weak points in systems, mainly across O
 
 A CHRM-based attendance tracking system built to automate and simplify check-in/check-out workflows.
 
-<img src="https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=60A5FA"/> <img src="https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=node.js&logoColor=C084FC"/>　[→ View Repo](https://github.com/MoGitagia/Chrm-attendance)
+<table border="0"><tr>
+<td align="center" width="70"><img src="https://www.google.com/s2/favicons?sz=128&domain=react.dev" width="28" height="28"/><br/><sub><b>React</b></sub></td>
+<td align="center" width="70"><img src="https://www.google.com/s2/favicons?sz=128&domain=nodejs.org" width="28" height="28"/><br/><sub><b>Node.js</b></sub></td>
+<td align="center" valign="middle">[→ View Repo](https://github.com/MoGitagia/Chrm-attendance)</td>
+</tr></table>
 
 <br>
 
@@ -48,7 +52,22 @@ A CHRM-based attendance tracking system built to automate and simplify check-in/
 
 *Enterprise Internal Operations & Asset Management System* — contributed to the frontend, covering asset tracking, procurement workflows, inventory, audit logs, and a password vault, with role-based access across 5 roles.
 
-<img src="https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=60A5FA"/> <img src="https://img.shields.io/badge/RBAC-0D1117?style=flat-square&logoColor=C084FC"/>
+<table border="0"><tr>
+<td align="center" width="70"><img src="https://www.google.com/s2/favicons?sz=128&domain=react.dev" width="28" height="28"/><br/><sub><b>React</b></sub></td>
+<td align="center" width="70"><img src="https://img.shields.io/badge/RBAC-1a1a2e?style=for-the-badge&labelColor=DB2777&color=DB2777"/></td>
+</tr></table>
+
+<br>
+
+<img src="https://img.shields.io/badge/✉️_CESMS-1a1a2e?style=for-the-badge&labelColor=60A5FA"/>
+
+*Corporate Email Signature Management System* — an internal tool for creating, assigning, and managing employee email signatures, with user accounts, login, and an admin dashboard.
+
+<table border="0"><tr>
+<td align="center" width="70"><img src="https://www.google.com/s2/favicons?sz=128&domain=php.net" width="28" height="28"/><br/><sub><b>PHP</b></sub></td>
+<td align="center" width="70"><img src="https://www.google.com/s2/favicons?sz=128&domain=sqlite.org" width="28" height="28"/><br/><sub><b>SQLite</b></sub></td>
+<td align="center" valign="middle">[→ View Repo](https://github.com/UpraiseGlobal/upraise-corporate-email-signature)</td>
+</tr></table>
 
 <br>
 
